@@ -1,5 +1,7 @@
 # my_app
 
+# no it' our e_commerce app
+
 A new Flutter project.
 
 ## Getting Started
